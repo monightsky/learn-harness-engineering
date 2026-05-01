@@ -680,7 +680,7 @@ html.has-mermaid-viewer body {
 
 .mermaid-viewer__tool:hover,
 .mermaid-viewer__close:hover {
-  background: var(--vp-c-bg-mute);
+  background: var(--vp-c-bg-elv);
 }
 
 .mermaid-viewer__tool--label {
